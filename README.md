@@ -10,7 +10,7 @@ This project provides an evaluation of machine learning in mental healthcare. We
 
 ## How to Make Use of The Project
 
-
+![Screenshot (1)](https://user-images.githubusercontent.com/113436694/207954953-da427195-7450-4499-88ba-904a14f05ce1.png)
 ![Screenshot (2)](https://user-images.githubusercontent.com/113436694/207954160-4a4f7644-360c-473b-bcbf-5ef058cc9b23.png)
 ![Screenshot (3)](https://user-images.githubusercontent.com/113436694/207954208-8506541a-08b3-432e-9365-05e8c5209bd1.png)
 ![Screenshot (4)](https://user-images.githubusercontent.com/113436694/207954226-fcc5ef88-ad5b-4a7c-b687-a32df7e7471c.png)
