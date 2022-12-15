@@ -10,7 +10,14 @@ This project provides an evaluation of machine learning in mental healthcare. We
 
 ## How to Make Use of The Project
 
-![Alt text](static/Screenshot (1).png?raw=true)
+![Screenshot (1)](https://user-images.githubusercontent.com/113436694/207954059-bbff4c10-6aa8-44f0-92c8-e96a87c340c1.png)
+![Screenshot (2)](https://user-images.githubusercontent.com/113436694/207954160-4a4f7644-360c-473b-bcbf-5ef058cc9b23.png)
+![Screenshot (3)](https://user-images.githubusercontent.com/113436694/207954208-8506541a-08b3-432e-9365-05e8c5209bd1.png)
+![Screenshot (4)](https://user-images.githubusercontent.com/113436694/207954226-fcc5ef88-ad5b-4a7c-b687-a32df7e7471c.png)
+![Screenshot (5)](https://user-images.githubusercontent.com/113436694/207954240-45d4f2bc-77f6-4a59-a602-ea3bfbfe4b5d.png)
+![Screenshot (6)](https://user-images.githubusercontent.com/113436694/207954260-69cfe2a1-9b90-410e-9c07-600520b90651.png)
+![Screenshot (7)](https://user-images.githubusercontent.com/113436694/207954285-75a3abb8-24a9-4e08-9eec-7c001f511431.png)
+![Screenshot (8)](https://user-images.githubusercontent.com/113436694/207954305-3f859d44-c0a0-4f09-b9b4-f6007d368896.png)
 
 ## Contribution
 The project work was divided into two broad categories- Frontend and Backend. 
