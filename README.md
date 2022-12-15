@@ -10,7 +10,7 @@ This project provides an evaluation of machine learning in mental healthcare. We
 
 ## How to Make Use of The Project
 
-![Alt text](/static/Screenshot (1).png?raw=true "Optional Title")
+![Alt text](static/Screenshot (1).png?raw=true)
 
 ## Contribution
 The project work was divided into two broad categories- Frontend and Backend. 
