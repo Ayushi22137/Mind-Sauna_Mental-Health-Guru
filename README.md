@@ -17,8 +17,8 @@ Python
 HTML/CSS
 
 ## Challenges we ran into
-*In our team, there was only one member that knew how to use flask. It took us a while to learn it to comprehensively create the website.
-*Sentiment based analysis presented several difficulities as Natural Language Processing was a new domain to explore for all of us.
+* In our team, there was only one member that knew how to use flask. It took us a while to learn it to comprehensively create the website.
+* Sentiment based analysis presented several difficulities as Natural Language Processing was a new domain to explore for all of us.
 
 ## How to Set Up and Run the Project 
 1.	Install all libraries $ pip install -r requirements.txt
@@ -59,8 +59,8 @@ Sentiment Based Analysis was performed by Mansi. It was a Natural Language Proce
 We were able to create a functional website with the visual we intended. We are very proud of our product at the end.
 
 ## What we learned
-*We learned new technology like flask and one of the most exciting fields in AI i.e. Natural Language Processing (NLP).
-*By working closely at a team, we can achieve new goals in a short amount of time.
+* We learned new technology like flask and one of the most exciting fields in AI i.e. Natural Language Processing (NLP).
+* By working closely at a team, we can achieve new goals in a short amount of time.
 
 
 
