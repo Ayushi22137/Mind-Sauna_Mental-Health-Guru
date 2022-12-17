@@ -17,7 +17,7 @@ Python
 HTML/CSS
 
 ## Challenges we ran into
-* In our team, there was only one member that knew how to use flask. It took us a while to learn it to comprehensively create the website.
+* FLASK API was very new to us. It took us a while to learn it to comprehensively create the website.
 * Sentiment based analysis presented several difficulities as Natural Language Processing was a new domain to explore for all of us.
 
 ## How to Set Up and Run the Project 
