@@ -1,5 +1,5 @@
 # Mind-Sauna_Mental-Health-Guru
-##Inspiration
+## Inspiration
 Finding mental health treatments can be difficult, especially in today's technologically advanced society with so many possibilities. If you've wanted to address a mental health issue but have been hesitant to do so in person, simple software that is meant to help you navigate your mental health journey and take the uncertainty out of obtaining the help you need.
 
 'Sauna' is a small room used as a hot-air or steam bath for cleaning and refreshing the body. MIND SAUNA is the place where you can come and flush out your toxins thereby cleansing your mind and getting some solutions on how to refresh/ calm yourself.
