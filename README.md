@@ -1,7 +1,24 @@
 # Mind-Sauna_Mental-Health-Guru
-## Description 
+##Inspiration
+Finding mental health treatments can be difficult, especially in today's technologically advanced society with so many possibilities. If you've wanted to address a mental health issue but have been hesitant to do so in person, simple software that is meant to help you navigate your mental health journey and take the uncertainty out of obtaining the help you need.
+
+'Sauna' is a small room used as a hot-air or steam bath for cleaning and refreshing the body. MIND SAUNA is the place where you can come and flush out your toxins thereby cleansing your mind and getting some solutions on how to refresh/ calm yourself.
+
+
+## Abstract
 The increase of mental health problems and the need for effective medical health care have led to an investigation of machine learning that can be applied in mental health problems. Mental health problems detected at earlier stage helps the psychologist to medicate and enhance the patient’s life. As such, it becomes important to track and remedy any problems before they get too serious. We try achieving this using Mind Sauna. 
 This project provides an evaluation of machine learning in mental healthcare. We performed a thorough analysis of the dataset to characterize the subjects’ behaviour based on different aspects of their PHQ9 question answering and textual inputs. Quiz Based Analysis is done using multiple machine learning algorithms (SVM, Naïve Bayes, KNN, DT, Random Forest) and TextBlob is used for detecting depression from sentiments.
+
+## How we built it
+This project has been built with a lot of love, consideration to help others with their mental health using:
+
+Flask
+Python
+HTML/CSS
+
+##Challenges we ran into
+*In our team, there was only one member that knew how to use flask. It took us a while to learn it to comprehensively create the website.
+*Sentiment based analysis presented several difficulities as Natural Language Processing was a new domain to explore for all of us.
 
 ## How to Set Up and Run the Project 
 1.	Install all libraries $ pip install -r requirements.txt
@@ -38,8 +55,12 @@ Sentiment Based Analysis was performed by Mansi. It was a Natural Language Proce
 
 •	Frontend work was performed by Lakshya. Our ML model is deployed to production using FLASK as an API. In order to get user input and then render your predictions as output, we needed a web-page structure and some aesthetics for better user experience. He integrated HTMM/CSS with Python by Flask. HTML is used to provide base structure and CSS gave aesthetics to it. He has written the code creating 6 HTML files in template folder i.e. “index.html”, “link.html”, “error.html”, “result.html”, “sentiment.html” and “tweetresult.html”. We have communicated with html files from our server.py file  which is heart of the project and links to our other files.
 
+## Accomplishments that we're proud of
+We were able to create a functional website with the visual we intended. We are very proud of our product at the end.
 
-
+## What we learned
+*We learned new technology like flask and one of the most exciting fields in AI i.e. Natural Language Processing (NLP).
+*By working closely at a team, we can achieve new goals in a short amount of time.
 
 
 
