@@ -12,9 +12,9 @@ This project provides an evaluation of machine learning in mental healthcare. We
 ## How we built it
 This project has been built with a lot of love, consideration to help others with their mental health using:
 
-Flask
-Python
-HTML/CSS
+* Flask
+* Python
+* HTML/CSS
 
 ## Challenges we ran into
 * FLASK API was very new to us. It took us a while to learn it to comprehensively create the website.
