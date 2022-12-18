@@ -20,10 +20,8 @@ HTML/CSS
 * FLASK API was very new to us. It took us a while to learn it to comprehensively create the website.
 * Sentiment based analysis presented several difficulities as Natural Language Processing was a new domain to explore for all of us.
 
-## How to Set Up and Run the Project 
-1.	Install all libraries $ pip install -r requirements.txt
-2.	Run the application $ python server.py
-3.	In Browser open URL localhost:5987
+## How Run the Project 
+* In Browser open URL-  http://192.168.57.169:5987/
 
 ## How to Make Use of The Project
 
