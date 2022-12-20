@@ -1,7 +1,7 @@
 from flask import Flask, request, render_template,flash,redirect,session,abort,jsonify
 from models import Model
 # from depression_detection_tweets import DepressionDetection
-from TweetModel import process_message
+#from TweetModel import process_message
 import os
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 
