@@ -21,7 +21,11 @@ This project has been built with a lot of love, consideration to help others wit
 * Sentiment based analysis presented several difficulities as Natural Language Processing was a new domain to explore for all of us.
 
 ## How Run the Project 
-* In Browser open URL-  http://192.168.57.169:5987/
+* Install all libraries $ pip install -r requirements.txt
+
+* Run the application $ python server.py
+
+* In Browser open URL localhost:5987
 
 ## How to Make Use of The Project
 
